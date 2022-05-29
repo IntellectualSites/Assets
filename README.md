@@ -1,2 +1,2 @@
 # Assets
-IntellectualSites' assets
+Official IntellectualSites' assets
